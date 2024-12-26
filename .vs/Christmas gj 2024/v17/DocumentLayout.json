@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\Christmas gj 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|d:\\unityprojects\\christmas gj 2024\\assets\\scripts\\buttonsanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonsanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|D:\\UnityProjects\\Christmas gj 2024\\assets\\scripts\\graphscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\graphscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|D:\\UnityProjects\\Christmas gj 2024\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|D:\\UnityProjects\\Christmas gj 2024\\assets\\scripts\\unlockbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24B0C80-C4BE-CEF5-5E9A-93BADA4F0CB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlockbuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonsAnimation.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\ButtonsAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonsAnimation.cs",
+              "ToolTip": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\ButtonsAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonsAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:57:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:43:03.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnlockButtonScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\UnlockButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnlockButtonScript.cs",
+              "ToolTip": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\UnlockButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnlockButtonScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:38:37.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\GraphScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GraphScript.cs",
+              "ToolTip": "D:\\UnityProjects\\Christmas gj 2024\\Assets\\Scripts\\GraphScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GraphScript.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwKEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:01:01.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
